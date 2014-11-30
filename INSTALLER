@@ -1,0 +1,11 @@
+#!bash
+#
+# This file might be sourced during installation with hsadmin
+#
+# NOTE:
+#      THIS WILL
+#     OVERWRITE ANY
+#  ~/.emacs.d-livecoding
+#     DIRECTORY!!!!
+
+ln -fsT "$(pwd)" "${HOME}/.emacs.d-livecoding"

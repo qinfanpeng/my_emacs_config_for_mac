@@ -1,0 +1,15 @@
+qfp@ubuntu:~$ cd
+qfp@ubuntu:~$ cd .emacs.d/
+qfp@ubuntu:~/.emacs.d$ cd lib/
+qfp@ubuntu:~/.emacs.d/lib$ ls
+ace-jump-mode.el  blackbored.el  eval-sexp-fu.el  markdown-mode.el       rainbow-mode.el  smooth-scrolling.el
+ac-slime          clojure-mode   fuzzy            mwe-log-commands.el    refheap          text-mode
+align-cljlet      color-theme    highlight.el     paredit.el             show-wspace.el   undo-tree
+auto-complete     crosshairs.el  hl-line.el       popup                  slime            volatile-highlights
+backup-dir.el     dircolors.el   key-chord.el     rainbow-delimiters.el  smex             yasnippet
+qfp@ubuntu:~/.emacs.d/lib$ rm hl-line.el
+qfp@ubuntu:~/.emacs.d/lib$exit
+exit
+
+Process *ansi-term* finished
+y

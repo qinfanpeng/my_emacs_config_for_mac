@@ -1,0 +1,65 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/fpqin/.emacs.d/" . "config/")
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/com/tw/" . "pos/")
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/com/" . "tw/")
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/" . "com/")
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/" . "java/")
+ ("/Users/fpqin/Workplace/Java/POS_system/src/" . "main/")
+ ("/Users/fpqin/Workplace/Java/POS_system/" . "src/")
+ ("/Users/fpqin/Workplace/Java/" . "POS_system/")
+ ("/Users/fpqin/Workplace/" . "Java/")
+ ("/Users/fpqin/" . ".emacs.d/")
+ ("/Users/" . "fpqin/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/fpqin/.emacs.d/config/"
+ "/Users/fpqin/Workplace/Java/POS_system/src/main/java/com/tw/pos/"
+ "/Users/fpqin/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "bindings.el"
+ "Discount.java"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/fpqin/.emacs.d/config/" (21626 53665 0 0) "core.el" "bindings.el" "../" "./")
+
+ ("/Users/fpqin/.emacs.d/" (21626 53667 0 0) "tutorial/" "tmp/" "text-mode/" "README.md" "rails/" "live-config/" "lib/" "INSTALLER" "init.el" "ido.last" "etc/" "elpa/" "config/" "auto-save-list/" "../" "./")
+
+ ("/Users/fpqin/" (21626 53667 0 0) "百度云同步盘/" "Workplace/" "tmp/" "Public/" "Pictures/" "npm-debug.log" "node_modules/" "Music/" "Movies/" "Library/" "IdeaProjects/" "HBuilderProjects/" "HBuilder/" "Google Drive/" "floobits/" "Downloads/" "Documents/" "Desktop/" "Baidu/" "Applications/" ".zshrc~" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-CNfpqin-5.0.5" ".zcompdump-CNfpqin-5.0.2" ".z.zVVB5s" ".z" ".vimrc~" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".subversion/" ".sublimall.log" ".stardict/" ".ssh/" ".smex-items" ".psql_history" ".pry_history" ".oh-my-zsh/" ".oh-my-vim/" ".npm/" ".node-gyp/" ".mysql_history" ".m2/" ".local/" ".jenkins/" ".jboss-cli-history" ".ido.last" ".htoprc" ".gradle/" ".gitconfig" ".gemrc" ".gem/" ".floorc" ".emacs.d/" ".eclipse_keyring" ".DS_Store" ".cups/" ".config/" ".coffee_history" ".CFUserTextEncoding" ".cache/" ".bash_history" ".anyconnect" ".android/" "../" "./")
+
+ ("/home/" (21626 53330 338223 0) "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/com/tw/pos/" (21617 24886 0 0) "ShoppingCart.java" "SecondHalf.java" "Promotion.java" "ProductName.java" "ProductItem.java" "Product.java" "PriceCalculator.java" "Discount.java" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/com/tw/" (21613 58755 0 0) "pos/" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/com/" (21613 58755 0 0) "tw/" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/java/" (21613 64175 0 0) "com/" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/src/main/" (21613 46824 0 0) "java/" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/src/" (21613 46824 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/POS_system/" (21617 24886 0 0) "src/" "settings.gradle" "README.md" "POS_system.iws" "POS_system.ipr" "POS_system.iml" "out/" "gradlew.bat" "gradlew" "gradle/" "build.gradle" "build/" ".gradle/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/fpqin/Workplace/Java/" (21613 46695 0 0) "z" "workspace_sts/" "twu-biblioteca-qinfanpeng/" "trunk/" "test/" "spring_mvc_jpa/" "robot.zip" "robot/" "pro-spring-mvc-code/" "POS_system/" "junit/" "jdbc_pratice/" "java_oo/" "ioc_pratice/" "installgoogledrive.dmg" "hellotwu-master/" "freewheelers/" "Demo/" "calculator/" "bouncingBall/" "bouncing_ball.zip" "bookshelf/" "bester.tar.gz" "bester/" "AdobeFlashPlayerInstaller_14au_ltrosxd_aaa_aih.dmg" "access_control_practice/" ".gradletasknamecache" ".gradle/" ".DS_Store" "../" "./")
+
+ ("/Users/fpqin/Workplace/" (21591 36672 0 0) "Shell/" "Ruby/" "refactoring_1.zip" "refacotry/" "qinfanpeng/" "nodeppt/" "Maven/" "Java/" "HTML_CSS_Workshop.zip" "HTML_CSS_Workshop/" "Gradle/" "Frontend/" "FreeYouTubeDownloaderIC.exe" "Dash.zip" ".DS_Store" "../" "./")
+
+ ("/Users/" (21570 37809 0 0) "Shared/" "fpqin/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
